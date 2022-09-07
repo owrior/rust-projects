@@ -1,2 +1,2 @@
 # rust-projects
-Projects within the rust (book)[https://doc.rust-lang.org/book/]
+Projects within the rust [book](https://doc.rust-lang.org/book/)
